@@ -1,98 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="350"
-   height="215"
-   id="svg2"
-   sodipodi:version="0.32"
-   inkscape:version="0.48.1 "
-   version="1.0"
-   sodipodi:docname="Adidas isologo.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
-  <defs
-     id="defs4">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       id="perspective10" />
-    <inkscape:perspective
-       id="perspective2399"
-       inkscape:persp3d-origin="358.69965 : 161.21951 : 1"
-       inkscape:vp_z="717.39929 : 241.82927 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 241.82927 : 1"
-       sodipodi:type="inkscape:persp3d" />
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.77415508"
-     inkscape:cx="202.9917"
-     inkscape:cy="18.521141"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="657"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     showguides="true"
-     inkscape:guide-bbox="true" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-24.157502,-569.81858)">
-    <g
-       id="g3035"
-       transform="translate(-1.2917308,7.7503851)">
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#000000;fill-rule:nonzero;stroke:none"
-         d="m 279.82455,771.86292 -93.52022,-162.53041 67.18508,-38.59018 116.29189,201.12059 -89.95675,0"
-         class="ps00"
-         id="path2405" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#000000;fill-rule:nonzero;stroke:none"
-         d="m 30.726991,749.09129 67.185074,-38.85085 35.548115,61.62248 -89.695986,0 -13.037203,-22.77163"
-         class="ps00"
-         id="path2407" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         style="fill:#000000;fill-rule:nonzero;stroke:none"
-         d="m 109.47172,680.08109 67.18508,-38.76396 75.35505,130.54579 c -35.23797,-0.14076 -90.46802,-0.14076 -89.43523,-0.0869 l -53.1049,-91.69494"
-         class="ps00"
-         id="path2415" />
-    </g>
-  </g>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 24 24" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="layer1">
+<g opacity="1">
+<path d="M17.6324 19.1182L11.0126 7.61344L15.7683 4.88183L24 19.1182L17.6324 19.1182" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M0 17.5063L4.7557 14.7562L7.27198 19.1182L0.92284 19.1182L1.35012e-07 17.5063" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M5.57395 12.6214L10.3297 9.87747L15.6637 19.1182C13.1694 19.1082 9.25989 19.1082 9.33299 19.112L5.57396 12.6214" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</g>
 </svg>
