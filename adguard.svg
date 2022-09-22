@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Created with Vectornator (http://vectornator.io/) -->
-<svg stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 24 24" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs/>
-<clipPath id="ArtboardFrame">
-<rect height="24" width="24" x="0" y="0"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="logo">
-<g opacity="1">
-<g opacity="1">
-<path d="M11.9997-4.44089e-16C8.34037-4.44089e-16 3.92625 0.860534 0.292354 2.75463C0.292354 6.84537 0.242194 17.0366 11.9997 24C23.7575 17.0366 23.7076 6.84537 23.7076 2.75463C20.0735 0.860534 15.6594-4.44089e-16 11.9997-4.44089e-16L11.9997-4.44089e-16Z" fill="#68bc71" fill-rule="evenodd" opacity="1" stroke="none"/>
-<path d="M11.9878 23.9929C0.242228 17.0297 0.292354 6.84398 0.292354 2.75463C3.9223 0.862597 8.33076 0.00187564 11.9878 3.06235e-06C11.9878 3.06235e-06 11.9878 23.9929 11.9878 23.9929Z" fill="#67b279" fill-rule="evenodd" opacity="1" stroke="none"/>
-</g>
-<path d="M11.5727 16.0136L18.6524 6.47178C18.1336 6.05596 17.6785 6.34944 17.428 6.57665L17.4189 6.57738L11.5159 12.7181L9.29179 10.0416C8.23075 8.81572 6.78829 9.75077 6.45133 9.99789L11.5727 16.0136" fill="#ffffff" fill-rule="evenodd" opacity="1" stroke="none"/>
-</g>
-</g>
-</svg>
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M11.9997-4.44089e-16C8.34037-4.44089e-16 3.92625 0.860534 0.292354 2.75463C0.292354 6.84537 0.242194 17.0366 11.9997 24C23.7575 17.0366 23.7076 6.84537 23.7076 2.75463C20.0735 0.860534 15.6594-4.44089e-16 11.9997-4.44089e-16L11.9997-4.44089e-16Z" fill="#68bc71"/><path d="M11.9878 23.9929C0.242228 17.0297 0.292354 6.84398 0.292354 2.75463C3.9223 0.862597 8.33076 0.00187564 11.9878 3.06235e-06C11.9878 3.06235e-06 11.9878 23.9929 11.9878 23.9929Z" fill="#67b279"/><path d="M11.5727 16.0136L18.6524 6.47178C18.1336 6.05596 17.6785 6.34944 17.428 6.57665L17.4189 6.57738L11.5159 12.7181L9.29179 10.0416C8.23075 8.81572 6.78829 9.75077 6.45133 9.99789L11.5727 16.0136" fill="#ffffff"/></svg>
