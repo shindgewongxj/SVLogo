@@ -26,4 +26,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         if: ${{steps.svgo.outputs.DID_OPTIMIZE}}
         with:
-          commit_message: Optimized ${{steps.svgo.outputs.OPTIMIZED_COUNT}} SVG(s).
+          commit_message: SVGOptimized.
