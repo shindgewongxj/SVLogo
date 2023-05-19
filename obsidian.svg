@@ -1,17 +1,1 @@
-<svg viewBox="0 0 8 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <defs>
-        <linearGradient x1="63.1751244%" y1="77.2870662%" x2="43.0929927%" y2="-10.9124898%" id="linearGradient-1">
-            <stop stop-color="#6C56CC" offset="0%"></stop>
-            <stop stop-color="#9785E5" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" transform="translate(-0.000000, 0.000000)" fill-rule="nonzero">
-            <polygon id="Path" fill="#34208C" points="3.5688 0 1.0328 1.4016 7.57912251e-15 3.636 1.5656 7.2376 3.788 8 4.1952 7.184 5.04 2.1112"></polygon>
-            <polygon id="Path" fill="url(#linearGradient-1)" points="5.04 2.1112 3.4752 1.1528 1.3144 2.856 3.788 8 4.1952 7.184"></polygon>
-            <polygon id="Path" fill="#AF9FF4" points="5.04 2.1112 5.04 2.1112 3.5688 0 3.4752 1.1528"></polygon>
-            <polygon id="Path" fill="#4A37A0" points="3.4752 1.1528 3.5688 0 1.0328 1.4016 1.3144 2.856"></polygon>
-            <polygon id="Path" fill="#4A37A0" points="1.3144 2.856 1.5656 7.2376 3.788 8"></polygon>
-        </g>
-    </g>
-</svg>
+<svg viewBox="0 0 8 8" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient x1="63.175%" y1="77.287%" x2="43.093%" y2="-10.912%" id="a"><stop stop-color="#6C56CC" offset="0%"/><stop stop-color="#9785E5" offset="100%"/></linearGradient></defs><g fill-rule="nonzero" fill="none"><path fill="#34208C" d="M3.569 0 1.033 1.402 0 3.636l1.566 3.602L3.788 8l.407-.816.845-5.073z"/><path fill="url(#a)" d="m5.04 2.111-1.565-.958-2.16 1.703L3.787 8l.407-.816z"/><path fill="#AF9FF4" d="M5.04 2.111 3.569 0l-.094 1.153z"/><path fill="#4A37A0" d="M3.475 1.153 3.57 0 1.033 1.402l.281 1.454zM1.314 2.856l.252 4.382L3.788 8z"/></g></svg>
