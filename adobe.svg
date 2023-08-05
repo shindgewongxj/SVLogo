@@ -1,4 +1,1 @@
-<svg viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Adobe</title>
-        <path d="M8.881,8.8817842e-16 L0,8.8817842e-16 L0,21.24 L8.881,8.8817842e-16 Z M15.131,8.8817842e-16 L24,8.8817842e-16 L24,21.24 L15.13,8.8817842e-16 L15.131,8.8817842e-16 Z M12.006,7.828 L17.659,21.24 L13.949,21.24 L12.26,16.97 L8.123,16.97 L12.006,7.828 Z" fill="#FA0C00" fill-rule="nonzero"></path>
-</svg>
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M8.881 0H0v21.24L8.881 0Zm6.25 0H24v21.24L15.13 0h.001Zm-3.125 7.828 5.653 13.412h-3.71l-1.689-4.27H8.123l3.883-9.142Z" fill="#FA0C00"/></svg>
